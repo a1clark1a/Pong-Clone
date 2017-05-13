@@ -1,0 +1,11 @@
+﻿  EngineFinal2.cpp
+EngineFinal2.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+EngineFinal2.cpp(501): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+EngineFinal2.cpp(506): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+EngineFinal2.cpp(511): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+EngineFinal2.cpp(772): warning C4305: '*=': truncation from 'double' to 'float'
+EngineFinal2.cpp(773): warning C4305: '*=': truncation from 'double' to 'float'
+EngineFinal2.cpp(972): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+EngineFinal2.cpp(973): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+EngineFinal2.cpp(974): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+EngineFinal2.cpp(975): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
